@@ -15,7 +15,10 @@ Note: windows bash users might need to run
 ```bash 
 PYTHONIOENCODING=utf8 conda activate project-name
 ```
-
+3. Running jupyter notebook 
+```bash 
+jupyter lab playground.ipynb
+```
 
 
 ## Project Organization
