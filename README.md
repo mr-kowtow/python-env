@@ -8,7 +8,7 @@
 2. Create Conda environment using the following steps:
 ```bash 
 conda deactivate 
-conda env create -f conda requirements.yml
+conda env create -f conda-requirements.yml
 conda activate
 ```
 
