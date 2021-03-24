@@ -144,8 +144,7 @@ dmypy.json
 # Jupyter NB Checkpoints
 .ipynb_checkpoints/
 
-# exclude data from source control by default
-/data/
+
 
 # exclude config files from source control (will contain user/pw details)
 config.ini
