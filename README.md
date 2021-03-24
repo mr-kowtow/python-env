@@ -26,10 +26,8 @@ jupyter lab playground.ipynb
     ├── README.md          <- The top-level README for those using this project.
     ├── data               <- All data in here should be temporary, not added to git, 
     │   │                     and used only for processing as part of a notebook worfklow.
-    │   ├── external       <- Data from third party sources.
-    │   ├── interim        <- Intermediate data that has been transformed.
-    │   ├── processed      <- The final, canonical output datsets, organised by source
-    │   └── raw            <- Original data dumps, organised by source
+    │   ├── source         <- Data from third party sources.
+    │   └── outptut        <- The final, canonical output datsets, organised by source
     │
     ├── projects           <- python application for executing workflows:
     |                         each application has it's own folder and contains a readme.md and
