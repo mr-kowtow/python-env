@@ -1,4 +1,4 @@
-# python-env
+# Project Skeleton
 
 
 ## Setup
