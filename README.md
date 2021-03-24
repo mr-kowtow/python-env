@@ -31,7 +31,7 @@ jupyter lab playground.ipynb
     │
     ├── projects                <- python application for executing workflows:
     |                              each application has it's own folder and contains a readme.md and
-    |                               a main.py file as the entry point of the application.
+    |                              a main.py file as the entry point of the application.
     |
     ├── conda-requirements.yml  <- The requirements file for reproducing the project environment
     │
