@@ -7,11 +7,14 @@
 
 2. Create Conda environment using the following steps:
 ```bash 
-conda deactivate 
+conda deactivate (if exists)
 conda env create -f conda-requirements.yml
-conda activate
+conda activate project-name
 ```
-
+Note: windows bash users might need to run 
+```bash 
+PYTHONIOENCODING=utf8 conda activate project-name
+```
 
 
 
