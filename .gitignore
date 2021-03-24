@@ -127,3 +127,37 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Database
+*.db
+*.rdb
+
+# Pycharm
+.idea
+
+# VS Code
+.vscode/
+
+# Spyder
+.spyproject/
+
+# Jupyter NB Checkpoints
+.ipynb_checkpoints/
+
+# exclude data from source control by default
+/data/
+
+# exclude config files from source control (will contain user/pw details)
+config.ini
+
+# Mac OS-specific storage files
+.DS_Store
+
+# vim
+*.swp
+*.swo
+
+# Microsoft Excel
+*.csv
+*.xls
+*.xlsx
