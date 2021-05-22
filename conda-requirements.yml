@@ -1,9 +1,13 @@
-name: project-name
+name: job-scraper
 channels:
   - anaconda
+  - conda-forge
 dependencies:
   - python==3.9.1
   - pip==21.0.1
   - pandas==1.2.3
   - flake8
   - jupyterlab
+  - bs4
+  - requests
+  - python-dotenv
